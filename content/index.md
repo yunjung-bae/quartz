@@ -2,8 +2,6 @@
 title: Yunjung Bae
 ---
 
-Yunjung Bae 
-
 I am an undergraduate studying Cognitive Science at the University of Southern California. My interests lie in human-computer interaction (HCI), VR/AR/MR , and user experience research (UXR). 
 
 
