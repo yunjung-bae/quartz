@@ -2,7 +2,6 @@
 title: Hi
 ---
 
-Yunjung Bae
+Yunjung Bae 
 
-test
-aset
+[[references]]
